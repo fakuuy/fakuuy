@@ -6,7 +6,7 @@ Construyo software para que se use. Productos para Uruguay, herramientas que cor
 
 I build products people can run: local problems, local-first tools, applied AI.
 
-[faku.pro](https://faku.pro) · [WeFaber](https://wefaber.net) · [hola@faku.pro](mailto:hola@faku.pro)
+[WeFaber](https://wefaber.net) · [Mail](mailto:facupresa@icloud.com)
 
 ## En qué estoy
 
@@ -30,8 +30,8 @@ Rust y Python cuando hace falta (desktop, inferencia ONNX).
 
 ## Contacto
 
-- Sitio: [faku.pro](https://faku.pro) (pasa a [facupresa.com](https://facupresa.com))
+- Sitio: Proximo facupresa.com
 - Estudio: [wefaber.net](https://wefaber.net)
-- Mail: [hola@faku.pro](mailto:hola@faku.pro)
+- Mail: [Mail Personal](mailto:facupresa@icloud.com)
 - LinkedIn: [fakup](https://linkedin.com/in/fakup)
-- X: [@fakuu_uy](https://x.com/fakuu_uy)
+- X: [@fakuu_uy](https://x.com/fakuu_sys)
